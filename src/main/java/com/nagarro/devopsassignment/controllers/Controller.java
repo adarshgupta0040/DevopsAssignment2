@@ -9,7 +9,7 @@ public class Controller {
 	// for testing
 	@GetMapping("/")
 	public String test() {
-		return "Welcome to Basic Springboot for AppDevopsAssignment created by Adarsh Gupta";
+		return "Welcome to Basic Springboot App for DevopsAssignment created by Adarsh Gupta";
 	}
 
 }
